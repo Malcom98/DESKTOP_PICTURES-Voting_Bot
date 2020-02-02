@@ -2,7 +2,7 @@
 <hr>
 Code is private because of security reasons.
 <hr>
-BASICS:<br>
+<b>BASICS:</b><br>
 This project was made as a freelacing project for a guy from Houston, California.<br>
 The idea was to get an author from: https://www.quotes.net/ and then type number of #5 star votes to be given to each quote.<br><br>
 
