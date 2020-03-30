@@ -39,5 +39,7 @@ This was a 2 part project and I received comments that will be shown on pictures
 Bellow this text, there are some pictures of a website.<br>
 *Application screen*
 ![MainScreen](https://user-images.githubusercontent.com/35956934/77965631-b6e6ab80-72e1-11ea-9d35-a2e20d6a82f8.png)
-*Result*<br><br>
+<br>
+<br>
+*Result*<br>
 ![Reaction](https://user-images.githubusercontent.com/35956934/77965637-b9490580-72e1-11ea-81d2-9def5470ed8a.png)
