@@ -25,3 +25,19 @@ User must enter which rows he would like to switch and then press button "Switch
 Rows will be switched and their positions will be saved next time he searches this URL.<br><br>
 
 <b>Technology used</b>: C#
+<br>
+
+This was a 2 part project and I received comments that will be shown on pictures below:
+*first part of the project*<br>
+![Comment1](https://user-images.githubusercontent.com/35956934/77965624-b2ba8e00-72e1-11ea-9d42-07cc3d2184cd.png)<br>
+*second part of the project*<br>
+![Comment2](https://user-images.githubusercontent.com/35956934/77965628-b3ebbb00-72e1-11ea-93fe-30f73d22d4ed.png)<br>
+<br>
+<br>
+
+
+Bellow this text, there are some pictures of a website.<br>
+*Application screen*
+![MainScreen](https://user-images.githubusercontent.com/35956934/77965631-b6e6ab80-72e1-11ea-9d35-a2e20d6a82f8.png)
+*Result*<br>
+![Reaction](https://user-images.githubusercontent.com/35956934/77965637-b9490580-72e1-11ea-81d2-9def5470ed8a.png)
